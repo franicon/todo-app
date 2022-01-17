@@ -10,7 +10,7 @@
         <div class="navbar-nav container">
           
           <router-link class="nav-link mx-3" :to="{name: 'Home'}">Home</router-link>
-        <router-link class="nav-link mx-3" :to="{name: 'About'}">Todos</router-link>
+        <router-link class="nav-link mx-3" :to="{name: 'Todos'}">Todos</router-link>
         </div>
       </div>
     </div>
