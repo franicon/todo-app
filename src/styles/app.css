@@ -1,0 +1,28 @@
+.bg-success, .btn-success {
+  background-color: #06c7ad !important;
+}
+
+.btn {
+  border: none !important;
+  outline: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.nav-link {
+  color: #ffffff !important;
+}
+
+small {
+  font-size: small;
+  color: #727272;
+}
+
+i {
+  cursor: pointer;
+}
+
+.bg-green {
+  background-color: #d7fffa !important;
+}
+/*# sourceMappingURL=app.css.map */
